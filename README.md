@@ -19,7 +19,12 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ToshmatovDeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ToshmatovDeveloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-b8f2d5e2d83b.png" width="60" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39b048d28731.png" width="60" alt="Quickdraw" title="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-2304892c0022.png" width="60" alt="Pull Shark x2" title="Pull Shark x2" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be938f36214d.png" width="60" alt="YOLO" title="YOLO" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
