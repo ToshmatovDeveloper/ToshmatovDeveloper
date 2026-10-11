@@ -18,13 +18,6 @@
 ![](https://streak-stats.demolab.com/?user=ToshmatovDeveloper&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ToshmatovDeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-<p>
-  <a href="https://github.com/ToshmatovDeveloper?tab=achievements">
-    <img src="https://github-profile-achievements.vercel.app/api/achievements?username=ToshmatovDeveloper&theme=compact" alt="GitHub Achievements" />
-  </a>
-</p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
