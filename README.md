@@ -20,10 +20,9 @@
 
 ## 🏆 GitHub Trophies
 <p>
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-b8f2d5e2d83b.png" width="60" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39b048d28731.png" width="60" alt="Quickdraw" title="Quickdraw" />
-  <img src="https://github.githubassets.com/assets/pull-shark-default-2304892c0022.png" width="60" alt="Pull Shark x2" title="Pull Shark x2" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be938f36214d.png" width="60" alt="YOLO" title="YOLO" />
+  <a href="https://github.com/ToshmatovDeveloper?tab=achievements">
+    <img src="https://github-profile-achievements.vercel.app/api/achievements?username=ToshmatovDeveloper&theme=compact" alt="GitHub Achievements" />
+  </a>
 </p>
 
 ### ✍️ Random Dev Quote
