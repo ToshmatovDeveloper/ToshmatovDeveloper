@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, world! I'm Iqbol — a C# & .NET Developer! 💻⚡<br><br>✨ What I love doing:<br>🚀 Designing fast and reliable microservices 🏗️<br>🧠 Diving deep into the magic of C#, Entity Framework Core, and PostgreSQL 🐘<br>⚡ Optimizing databases and crafting cool server-side logic 📊<br>🔥 Growing every single day and constantly exploring new horizons in IT! 🌍<br><br>💡 My golden rule: Write code you can be proud of, and always keep a positive mindset! 😁✌️<br>📫 Always open to exciting ideas, projects, or just a friendly chat! 🤝
+👋 Hello, world! I'm Iqbol - a C# & .NET Developer! 💻⚡<br><br>✨ What I love doing:<br>🚀 Designing fast and reliable microservices 🏗️<br>🧠 Diving deep into the magic of C#, Entity Framework Core, and PostgreSQL 🐘<br>⚡ Optimizing databases and crafting cool server-side logic 📊<br>🔥 Growing every single day and constantly exploring new horizons in IT! 🌍<br><br>💡 My golden rule: Write code you can be proud of, and always keep a positive mindset! 😁✌️<br>📫 Always open to exciting ideas, projects, or just a friendly chat! 🤝
 
 
 # 💻 Tech Stack:
