@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1>Hello world, I'm Iqbol, a Tajik Software Engineer 👋. </h1>
 <p>C# / .Net Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
