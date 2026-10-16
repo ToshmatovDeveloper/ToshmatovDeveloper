@@ -12,9 +12,9 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/iqbol-toshmatov" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ToshmatovDeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=10)<br/>
-![](https://streak-stats.demolab.com/?user=ToshmatovDeveloper&theme=dark&hide_border=false&count_private=true&timezone=Asia/Tashkent&mode=daily&v=10)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ToshmatovDeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=10)
+![](https://github-readme-stats.shion.dev/api?username=ToshmatovDeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=16)<br/>
+![](https://streak-stats.demolab.com/?user=ToshmatovDeveloper&theme=dark&hide_border=false&count_private=true&timezone=Asia/Tashkent&v=16)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ToshmatovDeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=16)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
