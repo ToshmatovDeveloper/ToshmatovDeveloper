@@ -61,5 +61,5 @@ Russian descriptions of Matt Pocock's agent skills: what each skill does and whe
 
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub streak: total contributions, current streak, longest streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ToshmatovDeveloper&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
