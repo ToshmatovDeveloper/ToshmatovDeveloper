@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Iqbol Toshmatov — C# / .NET + AI agents</title>
+  <desc id="desc">Banner with the name Iqbol Toshmatov and the roles C# / .NET engineer and AI agents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#14102A"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#512BD4"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <circle cx="1040" cy="150" r="220" fill="url(#glow)"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.04">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M60 0V300M180 0V300M300 0V300M420 0V300M540 0V300M660 0V300M780 0V300M900 0V300M1020 0V300M1140 0V300"/>
+  </g>
+
+  <g stroke="#7C3AED" stroke-width="1.5" stroke-opacity="0.45">
+    <path d="M820 90 L930 60 L1040 100 L1090 180 L990 230 L880 200 L820 90"/>
+    <path d="M930 60 L960 150 L1040 100"/>
+    <path d="M960 150 L880 200"/>
+    <path d="M960 150 L1090 180"/>
+    <path d="M960 150 L990 230"/>
+  </g>
+  <g fill="#22D3EE">
+    <circle cx="820" cy="90" r="5"/>
+    <circle cx="930" cy="60" r="5"/>
+    <circle cx="1040" cy="100" r="5"/>
+    <circle cx="1090" cy="180" r="5"/>
+    <circle cx="990" cy="230" r="5"/>
+    <circle cx="880" cy="200" r="5"/>
+    <circle cx="960" cy="150" r="8"/>
+  </g>
+  <circle cx="960" cy="150" r="26" fill="none" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1.5"/>
+  <circle cx="960" cy="150" r="44" fill="none" stroke="#7C3AED" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <text x="72" y="120" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="2">IQBOL TOSHMATOV</text>
+  <rect x="72" y="140" width="96" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="184" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="3">C# / .NET + AI AGENTS</text>
+  <text x="72" y="222" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">BACKEND · AGENTS · TOOLING</text>
+
+  <g fill="#FFFFFF" fill-opacity="0.35">
+    <circle cx="1120" cy="60" r="2"/>
+    <circle cx="1160" cy="120" r="2"/>
+    <circle cx="800" cy="250" r="2"/>
+    <circle cx="740" cy="70" r="2"/>
+  </g>
+</svg>
