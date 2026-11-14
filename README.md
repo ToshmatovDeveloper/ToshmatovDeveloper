@@ -9,7 +9,10 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/iqbol-toshmatov" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p>
+<a target="_blank" href="https://www.linkedin.com/in/iqbol-toshmatov" style="display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a target="_blank" href="https://t.me/coder11" style="display: inline-block;"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ToshmatovDeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=17)<br/>
