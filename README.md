@@ -13,7 +13,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ToshmatovDeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=17)<br/>
-![](https://streak-stats.demolab.com/?user=ToshmatovDeveloper&theme=dark&hide_border=false&count_private=true&timezone=Asia/Tashkent&v=17)<br/>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a><br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ToshmatovDeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=17)
 
 ### ✍️ Random Dev Quote
