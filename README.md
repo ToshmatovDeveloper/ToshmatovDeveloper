@@ -21,10 +21,6 @@
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToshmatovDeveloper&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph for the last 31 days" />
-</p>
-
-<p align="center">
   <img src="./profile/streak.svg" alt="GitHub streak: total contributions, current streak, longest streak" />
   <img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
