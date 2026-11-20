@@ -34,6 +34,7 @@
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ToshmatovDeveloper/ToshmatovDeveloper/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 ## Top languages
 
 <p align="center">
